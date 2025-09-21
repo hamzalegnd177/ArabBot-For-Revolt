@@ -12,7 +12,7 @@
   <a href="https://revolt.chat/">
     <img src="https://img.shields.io/badge/platform-revolt-blueviolet?style=for-the-badge" alt="Platform"/>
   </a>
-<a href="https://app.revolt.chat/bot/01K3RY479HKDZ364WB8TXMYE">
+<a href="https://app.revolt.chat/bot/01K3RY479HKDZ364WB8K5TXMYE">
   <img src="https://img.shields.io/badge/INVITE%20BOT-black?style=for-the-badge" alt="Invite Bot"/>
 </a>
   <a href="https://opensource.org/licenses/MIT">
