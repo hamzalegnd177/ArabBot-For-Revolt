@@ -4,4 +4,4 @@
 
 <h1 align="center">🤖 ArabBot</h1>
 <p align="center">بوت عربي احترافي مبني على Revolt.js</p>
-                  ![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
