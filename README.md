@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/dاااddd.png" alt="ArabBot Logo" width="200"/>
+  <img src="assets/ssssrfg.png" alt="ArabBot Logo" width="200"/>
 </p>
 
 <h1 align="center">🤖 ArabBot</h1>
